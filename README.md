@@ -1,2 +1,3 @@
 # hello-world
-My first repository
+
+Hello to everyone. The best programmer ever is now joining GitHub.
